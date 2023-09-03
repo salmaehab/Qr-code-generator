@@ -1,0 +1,25 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmaehab/Qr-code-generator.git"
+  },
+  "author": "salma ehab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmaehab/Qr-code-generator/issues"
+  },
+  "homepage": "https://github.com/salmaehab/Qr-code-generator#readme",
+  "dependencies": {
+    "jimp": "^0.22.10",
+    "nodemon": "^3.0.1",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4"
+  }
+}
